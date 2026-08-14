@@ -1,9 +1,9 @@
 # IAI-SLE
-# 🤖 Simple AI Agent Using If-Else
+#  Simple AI Agent Using If-Else
 
 A beginner-friendly **Python AI agent** built using simple `if-elif-else` statements. This project demonstrates how a basic conversational program can respond to different user inputs.
 
-## 📌 Features
+# Features
 
 * Responds to a greeting (`hello`)
 * Gives a basic weather response (`weather`)
@@ -11,7 +11,7 @@ A beginner-friendly **Python AI agent** built using simple `if-elif-else` statem
 * Exits the program when the user types `bye`
 * Handles unknown commands with a default response
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 * **Python 3**
 * `if-elif-else` statements
@@ -19,7 +19,7 @@ A beginner-friendly **Python AI agent** built using simple `if-elif-else` statem
 * `input()` function
 * `print()` function
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 simple-ai-agent/
@@ -28,7 +28,7 @@ simple-ai-agent/
 └── README.md
 ```
 
-## 🚀 How to Run
+## How to Run
 
 ### 1. Clone the repository
 
@@ -48,7 +48,7 @@ cd simple-ai-agent
 python agent.py
 ```
 
-## 💻 Example
+##  Example
 
 ```text
 Simple AI Agent
@@ -67,7 +67,7 @@ You: bye
 AI: Goodbye!
 ```
 
-## 🧠 How It Works
+##  How It Works
 
 The program continuously asks the user for input using a `while` loop.
 
@@ -79,7 +79,7 @@ The input is converted to lowercase and checked using `if-elif-else` conditions:
 * If the user enters `bye`, the program exits.
 * For any other input, the agent says it doesn't understand.
 
-## 📚 Learning Objectives
+##  Learning Objectives
 
 This project is useful for beginners who want to learn:
 
@@ -90,7 +90,7 @@ This project is useful for beginners who want to learn:
 * String methods such as `.lower()`
 * Basic chatbot/agent logic
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 Some possible improvements include:
 
@@ -101,7 +101,7 @@ Some possible improvements include:
 * Add natural language processing
 * Connect the agent to an AI API
 
-## 👨‍💻 Author
+##  Author
 
 **Your Name**
 
